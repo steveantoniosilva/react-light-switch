@@ -87,7 +87,7 @@ main {
 /* Checked */
 .l:checked {
 	background-color: darkkhaki;
-	box-shadow: 0.05em 0.05em 0 0.05em rgba(0,0,0,.1) inset;
+	box-shadow: 0.05em 0.05em 0 0.05em rgba(255,255,255,.3) inset;
 }
 .l:checked:before {
 	background-color: currentColor;
