@@ -44,7 +44,7 @@ main {
 .l {
 	background-color: #333;
 	border-radius: 0.75em;
-	box-shadow: 0.05em 0.05em 0 0.05em rgba(0,0,0,0.3) inset;
+	box-shadow: 0.05em 0.05em 11px 0.05em rgba(255,255,255,.2) inset;
 	color: #fdea7b;
 	display: inline-flex;
 	align-items: center;
@@ -87,7 +87,7 @@ main {
 /* Checked */
 .l:checked {
 	background-color: darkkhaki;
-	box-shadow: 0.05em 0.05em 0 0.05em rgba(255,255,255,.3) inset;
+	box-shadow: 0.02em 0.02em 11px .02em rgba(255,255,255,.9) inset;
 }
 .l:checked:before {
 	background-color: currentColor;
